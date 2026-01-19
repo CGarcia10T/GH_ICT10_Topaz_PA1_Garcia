@@ -1,0 +1,14 @@
+#output, #main {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: #606c38;
+    color: #fefae0;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: #65743A
+}
